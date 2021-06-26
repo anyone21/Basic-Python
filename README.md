@@ -4,6 +4,7 @@
 * [Source 1](https://rogerdudler.github.io/git-guide/)
 * [Source 2](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 * [Source 3](https://www.youtube.com/watch?v=2sjqTHE0zok)
+* [Source 4](https://missing.csail.mit.edu/2020/version-control/)
 
 ## Plan for Python:
 * THEORY

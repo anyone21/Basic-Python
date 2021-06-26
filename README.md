@@ -1,12 +1,11 @@
-# Basic-Python
-Basic of Python and git
+# Basic of Python and git
 
-Plan for GIT:
+## Plan for GIT:
 * [Source 1](https://rogerdudler.github.io/git-guide/)
 * [Source 2](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 * [Source 3](https://www.youtube.com/watch?v=2sjqTHE0zok)
 
-Plan for Python:
+## Plan for Python:
 * THEORY
   * [Theory 1](https://docs.python.org/3/tutorial/appetite.html)
 * PRACTISE

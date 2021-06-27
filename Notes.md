@@ -27,6 +27,12 @@ Now we are familiar with basic terms and we continue with setting up GIT.
 | git config --global user.email "<USER_EMAIL>" |
 | git config --list |
 
+* git --version : This command is used to check the installed version of git.
+
+* Two global variables: ***user.name*** and ***user.email*** are required to make commits.
+
+* git config --list : With this command we can see all variables provided by git.
+
 
 
 

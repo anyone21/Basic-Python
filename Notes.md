@@ -39,15 +39,19 @@ Now we are familiar with basic terms and we continue with setting up GIT.
 |----------|
 | git init --inital-branch="branch-name" |
 | git init -b "branch-name" |
-| git status |
 | git --help |
 
 * git init --inital-branch=main : This initialize our new repository ans set the name of the default branch to main.
 
-* git status : This command to show the status of the working tree.
-
 * git --help : To get help with what we can do with git.
 
+## STEP-3 [BASIC GIT COMMANDS]
+
+| COMMAND | Description |
+|---------|-------------|
+| git status | displays the state of the working tree (and of the staging area—we'll talk more about the staging area soon). It lets you see which changes are currently being tracked by Git, so you can decide whether you want to ask Git to take another snapshot.|
+| git add | It is the command you use to tell Git to start keeping track of changes in certain files. The technical term is staging these changes. We'll use git add to stage changes to prepare for a commit. All changes in files that have been added but not yet committed are stored in the staging area. |
+| git log | This command allows us to see information about previous commits. |
 
 
 

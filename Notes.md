@@ -33,6 +33,21 @@ Now we are familiar with basic terms and we continue with setting up GIT.
 
 * git config --list : With this command we can see all variables provided by git.
 
+## STEP-2 [SETUP A NEW GIT REPOSITORY]
+
+| COMMANDS |
+|----------|
+| git init --inital-branch=<branch-name> |
+| git init -b <branch-name> |
+| git status |
+| git --help |
+
+* git init --inital-branch=main : This initialize our new repository ans set the name of the default branch to main.
+
+* git status : This command to show the status of the working tree.
+
+* git --help : To get help with what we can do with git.
+
 
 
 

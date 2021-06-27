@@ -37,8 +37,8 @@ Now we are familiar with basic terms and we continue with setting up GIT.
 
 | COMMANDS |
 |----------|
-| git init --inital-branch=<branch-name> |
-| git init -b <branch-name> |
+| git init --inital-branch="branch-name" |
+| git init -b "branch-name" |
 | git status |
 | git --help |
 

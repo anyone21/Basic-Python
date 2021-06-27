@@ -21,7 +21,7 @@ Now we are familiar with basic terms and we continue with setting up GIT.
 ## STEP-1 [CONFIGURE GIT]
 
 | COMMANDS |
-------------
+|----------|
 | git --version |
 | git config --global  user.name "<USER_NAME>" |
 | git config --global user.name "<USER_EMAIL>" |

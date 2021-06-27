@@ -24,7 +24,7 @@ Now we are familiar with basic terms and we continue with setting up GIT.
 |----------|
 | git --version |
 | git config --global  user.name "<USER_NAME>" |
-| git config --global user.name "<USER_EMAIL>" |
+| git config --global user.email "<USER_EMAIL>" |
 | git config --list |
 
 

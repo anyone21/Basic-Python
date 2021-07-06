@@ -16,6 +16,8 @@
 
 * Commands, subcommands, and options: Git operations are performed by using commands like git push and git pull. git is the command, and push or pull is the subcommand. The subcommand specifies the operation you want Git to perform. Commands frequently are accompanied by options, which use hyphens (-) or double hyphens (--). For example, git reset --hard.
 
+* Forking : A fork is a copy of a repository. Forking a repository allows to freely experiment with changes without affecting the original project. You can refer more about it on [Link](https://www.toolsqa.com/git/git-fork/) 
+
 Now we are familiar with basic terms and we continue with setting up GIT.
 
 ## STEP-1 [CONFIGURE GIT]

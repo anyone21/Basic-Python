@@ -1,3 +1,4 @@
+
 ### Basic terminology
 
 * Working tree: The set of nested directories and files that contain the project that's being worked on.
@@ -15,6 +16,8 @@
 * Remote: A remote is a named reference to another Git repository. When you create a repo, Git creates a remote named origin that is the default remote for push and pull operations.
 
 * Commands, subcommands, and options: Git operations are performed by using commands like git push and git pull. git is the command, and push or pull is the subcommand. The subcommand specifies the operation you want Git to perform. Commands frequently are accompanied by options, which use hyphens (-) or double hyphens (--). For example, git reset --hard.
+
+* 
 
 Now we are familiar with basic terms and we continue with setting up GIT.
 
@@ -51,6 +54,7 @@ Now we are familiar with basic terms and we continue with setting up GIT.
 |---------|-------------|
 | git status | displays the state of the working tree (and of the staging area—we'll talk more about the staging area soon). It lets you see which changes are currently being tracked by Git, so you can decide whether you want to ask Git to take another snapshot.|
 | git add | It is the command you use to tell Git to start keeping track of changes in certain files. The technical term is staging these changes. We'll use git add to stage changes to prepare for a commit. All changes in files that have been added but not yet committed are stored in the staging area. |
+| git commit | After changes added to staging area they are redy to commit |
 | git log | This command allows us to see information about previous commits. |
 
 

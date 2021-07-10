@@ -17,11 +17,7 @@
 
 * Commands, subcommands, and options: Git operations are performed by using commands like git push and git pull. git is the command, and push or pull is the subcommand. The subcommand specifies the operation you want Git to perform. Commands frequently are accompanied by options, which use hyphens (-) or double hyphens (--). For example, git reset --hard.
 
-<<<<<<< HEAD:Notes.md
-* 
-=======
 * Forking : A fork is a copy of a repository. Forking a repository allows to freely experiment with changes without affecting the original project. You can refer more about it on [Link](https://www.toolsqa.com/git/git-fork/) 
->>>>>>> origin/main:Github_notes.md
 
 Now we are familiar with basic terms and we continue with setting up GIT.
 
@@ -60,6 +56,20 @@ Now we are familiar with basic terms and we continue with setting up GIT.
 | git add | It is the command you use to tell Git to start keeping track of changes in certain files. The technical term is staging these changes. We'll use git add to stage changes to prepare for a commit. All changes in files that have been added but not yet committed are stored in the staging area. |
 | git commit | After changes added to staging area they are redy to commit |
 | git log | This command allows us to see information about previous commits. |
+
+To look at the previous changes made we use ***git log***. Output of ***git log*** looks like
+
+![image](https://user-images.githubusercontent.com/32765126/125146627-5c730680-e144-11eb-855d-59018dc21c16.png)
+
+git log have plenty of options to choose from like
+1. git log --oneline  : output of same log as above but with more concise listing.
+
+![image](https://user-images.githubusercontent.com/32765126/125146666-99d79400-e144-11eb-9cbb-e59f375724a5.png)
+
+2. git log -nX : where X can be 1,2,3 ... which is a commit number: 1 for the latest commit, 2 for the one before that, ad so on.
+
+![image](https://user-images.githubusercontent.com/32765126/125146724-05b9fc80-e145-11eb-9ddb-56e6ba1188db.png)
+
 
 
 
